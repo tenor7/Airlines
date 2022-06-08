@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Airport</string>
+    <string name="start_text">Find and book your</string>
+    <string name="flight">flight</string>
+    <string name="get_tickets">Get Tickets</string>
+
+    <string-array name="fromArray">
+        <item>Москва</item>
+        <item>Алматы</item>
+        <item>Анталья</item>
+        <item>Баку</item>
+        <item>Дубай</item>
+        <item>Лондон</item>
+        <item>Ереван</item>
+        <item>Нур-Султан</item>
+        <item>Белград</item>
+        <item>Пекин</item>
+        <item>Стамбул</item>
+    </string-array>
+
+    <string-array name="toArray">
+        <item>Алматы</item>
+        <item>Анталья</item>
+        <item>Баку</item>
+        <item>Дубай</item>
+        <item>Лондон</item>
+        <item>Ереван</item>
+        <item>Нур-Султан</item>
+        <item>Белград</item>
+        <item>Пекин</item>
+        <item>Стамбул</item>
+        <item>Москва</item>
+    </string-array>
+</resources>
